@@ -21,12 +21,13 @@ Whether you're revisiting concepts or starting fresh, this repo serves as a **be
 
 web-development/
 │
-├── headings.html # HTML basics and examples
-├── css_repo/ # CSS syntax, layout, and projects
-├── javascript_repo/ # JS fundamentals, DOM, and scripts
-├── flask_repo/ # Python Flask apps and server-side logic
-├── projects/ # Mini-projects combining HTML/CSS/JS/Flask (Soon)
-└── README.md # You are here!
+├── headings.html         # Introduction to HTML structure and tags
+├── css_repo/             # CSS fundamentals: styling, layout, and responsiveness
+├── javascript_repo/      # JavaScript basics: variables, functions, DOM, and events
+├── flask_repo/           # Flask web apps: routing, templates, and server-side logic
+├── projects/             # Mini-projects combining HTML, CSS, JS, and Flask (Coming soon)
+└── README.md             # Project overview and documentation (you are here!)
+
 
 
 ---
